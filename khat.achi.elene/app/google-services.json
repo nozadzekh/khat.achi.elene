@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "119294579678",
+    "project_id": "khat--achi",
+    "storage_bucket": "khat--achi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119294579678:android:7d3282466754cc43ed834f",
+        "android_client_info": {
+          "package_name": "com.example.khatachi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119294579678-2cak9uh43hpkaitrudcrcknic3652b3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLKx3AKnYf2k-5RxCni-QmUA7evkwUlLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119294579678-2cak9uh43hpkaitrudcrcknic3652b3n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
